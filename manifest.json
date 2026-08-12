@@ -1,0 +1,17 @@
+{
+  "display_name": "待时闲暇",
+  "name": "leisure-time",
+  "id": "leisure-time",
+  "version": "0.3.0",
+  "description": "闲暇时光小窗：悬浮球进入。内置列表书架（导入 TXT/MD、分章、阅读进度记忆）+ 2048 小游戏。拿铁奶油主题，日/夜双模式，纯色扁平 UI。",
+  "type": "extension",
+  "js": "index.js",
+  "css": "style.css",
+  "author": "liwe",
+  "homePage": "",
+  "repository": {
+    "type": "local",
+    "url": ""
+  },
+  "requires": []
+}
